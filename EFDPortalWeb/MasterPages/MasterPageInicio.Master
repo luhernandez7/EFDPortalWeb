@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPageInicio.master.cs" Inherits="EFDPortalWeb.MasterPages.MasterPageInicio" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+         <!-- Required jQuery first, then Bootstrap Bundle JS -->
+    <script src="../JavaScrip/jquery.min.js"></script>
+    <script src="../JavaScrip/bootstrap.bundle.min.js"></script>
+    <script src="../JavaScrip/modernizr.js"></script>
+    <script src="../JavaScrip/moment.js"></script>
+</body>
+</html>

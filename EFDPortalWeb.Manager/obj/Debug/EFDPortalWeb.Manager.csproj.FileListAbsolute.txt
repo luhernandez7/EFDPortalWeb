@@ -1,0 +1,5 @@
+C:\Proyectos\EFDPortalWeb\EFDPortalWeb.Manager\bin\Debug\EFDPortalWeb.Manager.dll
+C:\Proyectos\EFDPortalWeb\EFDPortalWeb.Manager\bin\Debug\EFDPortalWeb.Manager.pdb
+C:\Proyectos\EFDPortalWeb\EFDPortalWeb.Manager\obj\Debug\EFDPortalWeb.Manager.csproj.CoreCompileInputs.cache
+C:\Proyectos\EFDPortalWeb\EFDPortalWeb.Manager\obj\Debug\EFDPortalWeb.Manager.dll
+C:\Proyectos\EFDPortalWeb\EFDPortalWeb.Manager\obj\Debug\EFDPortalWeb.Manager.pdb
